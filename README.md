@@ -8,7 +8,7 @@ You can use it to quickly bootstrap your react.js projects.
 ### Clone the Project
 
 ```
-git clone https://github.com/fizerkhan/react-seed.git
+https://github.com/DarshanKumar89/react-seed-1.git
 cd react-seed
 ```
 
