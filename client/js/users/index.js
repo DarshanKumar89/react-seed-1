@@ -12,8 +12,8 @@ List = React.createClass({
         this.fetchLatestNews();
     },
     fetchLatestNews: function () {
-      this.setState({ users: [ { id: 1, name: 'John', email: 'john@example.com'},
-                               { id: 2, name: 'Kumar', email: 'kumar@example.com'}] });
+      this.setState({ users: [ { id: 1, name: 'John', email: 'darshankumar38@gmail.com'},
+                               { id: 2, name: 'Kumar', email: 'thinkfalcon@darshan.com'}] });
 
       // For Ajax Request
       // $.ajax({
